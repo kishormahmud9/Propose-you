@@ -40,25 +40,21 @@ body
     position: relative;
     margin-bottom: 60px
 }
-.home .link a,
-.home .no a
+.home .link a
 {
     text-decoration: none;
     color: #fff;
     font-size: 20px;
-    padding: 10px 20px;
+    padding: 10px 70px;
     margin: 0 10px;
     background: tomato;
     border-radius: 5px;
 }
-.big
+.home .link a:hover
 {
-    padding: 10px 92px !important;
-}
+    background: hotpink;
+    transition: 0.5s ease-in-out;
 
-.big2
-{
-    padding: 10px 100px !important;
 }
 .love
 {
