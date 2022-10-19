@@ -173,7 +173,7 @@ body
     }
     .home h2
     {
-        font-size: 40px;
+        font-size: 30px;
     }
     .home .link a
     {
@@ -188,11 +188,11 @@ body
     }
     .love h1
     {
-        font-size: 100px;
+        font-size: 90px;
     }
     .love h1 span
     {
-        font-size: 100px;
+        font-size: 80px;
     }
     .love> span
     {
